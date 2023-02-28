@@ -1,16 +1,22 @@
 {
 ## spider
-//"spider":"https://download.kstore.space/download/3121/0907.jar",
+//"spider":"https://gitea.com/xiaoteng/TVBox/raw/branch/main/jar/20230214.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
 
 "sites":[
 
-{"key":"小姐姐","name":"小姐姐","type":1,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
+{
+      "key": "XJJ",
+      "name": "点播源小姐姐",
+      "type": 0,
+      "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
 
-#
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
 "parses":[

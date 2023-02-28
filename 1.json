@@ -9,7 +9,7 @@
 
 {
       "key": "XJJ",
-      "name": "点播源小姐姐",
+      "name": "小姐姐",
       "type": 0,
       "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml",
       "searchable": 1,

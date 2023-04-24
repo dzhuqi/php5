@@ -11,7 +11,7 @@
       "key": "XJJ",
       "name": "小姐姐",
       "type": 0,
-      "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml",
+      "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0

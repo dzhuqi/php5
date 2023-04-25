@@ -1,9 +1,6 @@
 {
 
-"spider":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/xiaomian.jar",
-
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
+"spider":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/xiaomian.jar";
 
 "sites":[
 

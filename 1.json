@@ -1,6 +1,6 @@
 {
 ## spider
-//"spider":"https://gitea.com/xiaoteng/TVBox/raw/branch/main/jar/20230214.jar",
+"spider":"https://gitee.com/guohuowang/tvbox/raw/master/xiaomian.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],

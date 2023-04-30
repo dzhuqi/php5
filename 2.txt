@@ -35,17 +35,9 @@ cctv17,http://120.84.96.59:808/hls/117/index.m3u8
 领南戏曲,http://120.84.96.59:808/hls/143/index.m3u8
 广东民生,http://120.84.96.59:808/hls/148/index.m3u8
 龙祥时代,http://120.84.96.59:808/hls/35/index.m3u8
-
-
 24[1920x1080],http://120.84.96.59:808/hls/24/index.m3u8
 84[1920x1080],http://120.84.96.59:808/hls/84/index.m3u8
 CCM,http://120.84.96.59:808/hls/85/index.m3u8
-
-
-
-
-
-
 20[1920x1080],http://61.221.81.93:8520/hls/65/807/ch843.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
 Star World,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
@@ -105,24 +97,16 @@ DBTV-1,http://59.32.98.8:9901/tsfile/live/1023_1.m3u8
 广东少儿,http://59.32.98.8:9901/tsfile/live/1033_1.m3u8
 广东经济,http://59.32.98.8:9901/tsfile/live/1042_1.m3u8
 广东影视,http://59.32.98.8:9901/tsfile/live/1017_1.m3u8
-
-
 深圳少儿,http://59.32.98.8:9901/tsfile/live/1036_1.m3u8
-
 湖南垂钓,http://59.32.98.8:9901/tsfile/live/1035_1.m3u8
 嘉佳卡通,http://59.32.98.8:9901/tsfile/live/1038_1.m3u8
 HZTV-1,http://59.32.98.8:9901/tsfile/live/1044_1.m3u8
 HZTV-2,http://59.32.98.8:9901/tsfile/live/1039_1.m3u8
-
-
 珠海-2,http://59.32.98.8:9901/tsfile/live/1040_1.m3u8
 深圳电视剧,http://59.32.98.8:9901/tsfile/live/1043_1.m3u8
 湖南茶频道,http://59.32.98.8:9901/tsfile/live/1046_1.m3u8
-
 汕尾新闻综合,http://59.32.98.8:9901/tsfile/live/1045_1.m3u8
-
 深圳龙岗,http://59.32.98.8:9901/tsfile/live/1054_1.m3u8
-
 绿色生活,http://59.32.98.8:9901/tsfile/live/1057_1.m3u8
 公共,http://59.32.98.8:9901/tsfile/live/1058_1.m3u8
 深圳公共,http://59.32.98.8:9901/tsfile/live/1059_1.m3u8
@@ -618,15 +602,8 @@ cnc,http://hwrr.jx.chinamobile.com:8080/PLTV/88888899/224/3221225694/index.m3u8
 四川卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888899/224/3221225733/index.m3u8
 军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888899/224/3221225757/index.m3u8
 超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888899/224/3221225766/index.m3u8
-香港,#genre#
-
-凤凰资讯台,https://epg.pw/stream/d51b2b2c5d04dbc82a25641c304b46f6d003e6142f3cacf3d75b1a716fd0fc31.m3u8
-凤凰中文台,https://epg.pw/stream/3c8a5d6129ba789ef097c0162fb5929ab6d389b68bf713455802bd1e9b69e9a8.m3u8
-凤凰香港台,https://epg.pw/stream/790509dd4682810219455f02a0bca92c965c8edf4eabc6f2129184be97049b85.m3u8
-翡翠台,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 
 央视,#genre#
-
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
